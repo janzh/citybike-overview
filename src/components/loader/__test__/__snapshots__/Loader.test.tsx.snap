@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loader should render without failure 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-guDMob jOKWbK"
+  >
+    <div
+      class="sc-beyTiQ jOPfIP"
+    />
+    <div>
+      <p>
+        Vent, siden laster
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

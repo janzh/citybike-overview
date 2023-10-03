@@ -1,0 +1,30 @@
+.leaflet-container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.marker {
+    width: 100%;
+    height: 100%;
+
+    background-color: blue;
+    border-radius: 100%;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.marker-number--empty {
+    color: red;
+}
+
+.marker-number:first-child {
+    border-right: 2px solid black;
+    padding-right: 3px;
+}
+.marker-number:last-child {
+    padding-left: 3px;
+}
