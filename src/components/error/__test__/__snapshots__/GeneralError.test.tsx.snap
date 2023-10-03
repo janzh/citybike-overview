@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GeneralError should render without failure 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-beyTiQ MeDgu"
+  >
+    <p>
+      Beklager det har skjedd en feil, prøv igjen senere.
+    </p>
+  </div>
+</DocumentFragment>
+`;
