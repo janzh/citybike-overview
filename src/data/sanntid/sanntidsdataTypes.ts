@@ -26,4 +26,4 @@ export interface SanntidsdataResponse {
     data: Sanntidsdata;
 }
 
-export interface Station extends StationInformation, StationStatus {}
+export type Station = StationInformation & StationStatus
